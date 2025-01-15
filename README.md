@@ -1,44 +1,44 @@
-Sales Report:
-Project Objective:
-1. Create a Customer Insights Report.
-2. Perform a detailed comparison between Regional Market Performance and Sales Goals.
+## Sales Report :
 
-Purpose of Sales Analytics:
-Empower businesses with actionable insights to evaluate sales performance and customer trends.
 
-Importance of Analyzing Sales Data:
+- **Project objective:** 
 
-Recognize sales patterns and uncover growth opportunities.
-Track key performance indicators (KPIs) to refine sales strategies.
-Role of Reports:
+    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-Identify effective discount strategies for customers.
-Support negotiations and enhance customer relationships.
-Discover expansion opportunities in high-potential regions.
-Finance Report:
-Project Objective:
-1. Create Profit and Loss (P&L) reports segmented by Fiscal Year and Months.
-2. Develop Profit and Loss (P&L) reports by Regions for in-depth financial insights.
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
-Purpose of Financial Analytics:
-Evaluate financial performance, support strategic decisions, and foster transparent communication with stakeholders.
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-Importance of Analyzing Financial Data:
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
-Benchmark performance against industry standards and previous periods.
-Enable accurate forecasting and resource allocation.
-Role of Reports:
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-Align financial planning with business objectives.
-Strengthen confidence in organizational financial strategies.
-Technical & Soft Skills:
- Proficiency in ETL methodology (Extract, Transform, Load).
- Mastery of Power Query to generate dynamic date tables and derive fiscal months/quarters.
- Ability to create relationships between datasets using Power Pivot.
- Skilled in designing calculated columns using DAX for advanced analytics.
- Expertise in integrating additional data into existing models for enhanced reporting.
-Soft Skills:
- Comprehensive understanding of Sales & Finance KPIs and reports.
- Ability to design user-friendly and visually appealing reports.
- Optimization of report workflows for efficiency and accuracy.
- Strong problem-solving and planning skills for systematic report creation.
+
+## Finance Report :
+
+- **Project objective:** 
+
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
+
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
